@@ -1,6 +1,5 @@
 // Сhapter №2
 
-'use strict'
 
 function selectionSort(arr) {
     let i = 0,

@@ -1,5 +1,6 @@
 // Сhapter №3
 
+
 function fuctorial(number) {
     return (number === 1) ? 1 : (number * fuctorial(number - 1));
 }

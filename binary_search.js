@@ -1,8 +1,6 @@
 // Сhapter №1
 
 
-'use strict'
-
 function binarySearch(len) {
 
     if (1 > n || n > len) return 'Ошибка! Загаданное число не входит в указанную последовательность!';
